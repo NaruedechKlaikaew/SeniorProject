@@ -17,6 +17,20 @@ The results demonstrate that the proposed approach effectively transforms raw GP
 an interpretable index that reflects real-world traffic conditions. Furthermore, the method
 shows potential for application in decision-support systems for traffic management.
 
-Objectives
+# Objectives
 
-To study and analyze road congestion using probe data, such as average speed, location, and duration of vehicle stops, in order to establish appropriate criteria for identifying congestion points and forecasting future road congestion.
+Study and analyze road congestion using probe data, such as average speed, location, and duration of vehicle stops, in order to establish appropriate criteria for identifying congestion points and forecasting future road congestion.
+
+# Scope of Study
+
+- Study the available data, which consists of GPS tracking data from Grab Taxi Thailand, covering the period from June 1 to August 31, 2019. The study involves exploring the data structure and its contents.
+- Study the principles and methods used for identifying traffic bottlenecks.
+- Define the study area, which is Rama IV Road, focusing on two specific segments: approximately 100 meters before the Ban Kluay Tai intersection and the section between Ban Kluay Tai and Kluaynamthai intersections.
+- To apply the Traffic Performance Index (TPI) for identifying traffic bottlenecks along Rama IV Road and compile congestion data for different time periods.
+- To use the congestion table as input for a developed model to forecast future TPI values.
+
+# Expected Benefits
+
+Develop a quantitative traffic analysis method using the Traffic Performance Index (TPI) derived from vehicle GPS data, enabling systematic comparison of congestion levels across time periods.
+Apply the developed forecasting model to predict TPI values in advance, supporting driver decision-making, particularly during periods of anticipated congestion.
+Identify recurring congestion patterns during different times of day or days of the week, which is useful for travel planning.
