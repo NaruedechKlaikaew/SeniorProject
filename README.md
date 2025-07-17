@@ -17,3 +17,6 @@ The results demonstrate that the proposed approach effectively transforms raw GP
 an interpretable index that reflects real-world traffic conditions. Furthermore, the method
 shows potential for application in decision-support systems for traffic management.
 
+Objectives
+
+To study and analyze road congestion using probe data, such as average speed, location, and duration of vehicle stops, in order to establish appropriate criteria for identifying congestion points and forecasting future road congestion.
