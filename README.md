@@ -16,5 +16,4 @@ utilized historical data as independent variables to estimate the upcoming traff
 The results demonstrate that the proposed approach effectively transforms raw GPS data into
 an interpretable index that reflects real-world traffic conditions. Furthermore, the method
 shows potential for application in decision-support systems for traffic management.
-Keywords: GPS data, Traffic Performance Index (TPI), urban traffic, traffic forecasting,
-Rama IV Road
+
